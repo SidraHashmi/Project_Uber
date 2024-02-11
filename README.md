@@ -22,8 +22,10 @@ With featurized data in hand, the focus shifted to Exploratory Data Analysis (ED
 # Tools and Techniques Utilized
 Throughout Project Uber, an array of tools and techniques were employed:
 
-## Programming Language: Python served as the primary language for data manipulation and analysis.
-Libraries: Pandas, Matplotlib, NumPy, Seaborn, Plotly, and Folium were instrumental in data processing, visualization, and geographical analysis.
+## Programming Language: 
+Python served as the primary language for data manipulation and analysis.
+## Libraries: 
+Pandas, Matplotlib, NumPy, Seaborn, Plotly, and Folium were instrumental in data processing, visualization, and geographical analysis.
 ## Data Visualization: 
 A diverse range of visualization techniques including line graphs, bar graphs, box plots, and heatmaps were utilized to present findings effectively.
 
