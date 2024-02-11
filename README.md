@@ -20,7 +20,7 @@ Load Data: Once transformed, the prepared data was available for analysis within
 With featurized data in hand, the focus shifted to Exploratory Data Analysis (EDA). Through various visualization techniques including line graphs, bar graphs, heatmaps, and pivot tables, the data was explored comprehensively. Key questions regarding temporal patterns, base number analysis, and rush locations in New York City were addressed, leading to actionable insights. These included identifying peak Uber pickups by month, analyzing hourly rush patterns across all days, determining the base number with the highest number of active vehicles, pinpointing rush locations within New York City, and conducting pairwise analysis of rush based on hour and weekday.
 
 ## Visualizations
-While GitHub may not display all visualizations properly, snapshots of the graphs and plots generated during the analysis have been published on my LinkedIn profile. You can find them [here]([link_to_your_linkedIn_profile](https://www.linkedin.com/in/sidra-hashmi-00a78616b/)).
+While GitHub may not display all visualizations properly, snapshots of the graphs and plots generated during the analysis have been published on my LinkedIn profile. You can find them [here]((https://www.linkedin.com/in/sidra-hashmi-00a78616b/)).
 
 # Tools and Techniques Utilized
 Throughout Project Uber, an array of tools and techniques were employed:
